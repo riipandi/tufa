@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "190701417639",
+    "firebase_url": "https://tufa-app.firebaseio.com",
+    "project_id": "tufa-app",
+    "storage_bucket": "tufa-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190701417639:android:590550f4da2ebfbfa35782",
+        "android_client_info": {
+          "package_name": "dev.altaris.tufa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190701417639-jbe01qf2nln27v1cgf3v8cmtmafnrk3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAoQO25bM1j8U-lqDRJ4dVbDWPApIKJBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190701417639-jbe01qf2nln27v1cgf3v8cmtmafnrk3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
