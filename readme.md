@@ -5,6 +5,8 @@ Tufa is a free, secure and open source 2FA app for Android.
 Tufa' security design and vault format is described in detail in [this
 document](docs/vault.md).
 
+> This application is a fork of https://github.com/beemdevelopment/Aegis
+
 # Features
 
 - Free and open source
@@ -54,9 +56,6 @@ src="metadata/en-US/images/phoneScreenshots/screenshot3.png?raw=true">](/metadat
 src="metadata/en-US/images/phoneScreenshots/screenshot4.png?raw=true">](metadata/en-US/images/phoneScreenshots/screenshot4.png?raw=true)
 [<img width=200 alt="Screenshot 5"
 src="metadata/en-US/images/phoneScreenshots/screenshot5.png?raw=true">](metadata/en-US/images/phoneScreenshots/screenshot5.png?raw=true)
-[<img width=200 alt="Screenshot 6"
-src="metadata/en-US/images/phoneScreenshots/screenshot6.png?raw=true">](metadata/en-US/images/phoneScreenshots/screenshot6.png?raw=true)
-
 [<img width=200 alt="Screenshot 7"
 src="metadata/en-US/images/phoneScreenshots/screenshot7.png?raw=true">](metadata/en-US/images/phoneScreenshots/screenshot7.png?raw=true)
 
